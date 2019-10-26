@@ -1,0 +1,4 @@
+fundstransfer\rest\MemberResourceRESTService.class
+fundstransfer\util\WebResources.class
+fundstransfer\controller\MemberController.class
+fundstransfer\rest\JaxRsActivator.class
